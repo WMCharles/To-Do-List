@@ -8,3 +8,22 @@ body {
     margin: 0 auto;
     padding: 2em;
 }
+
+.check_button {
+    margin: 0 2px 0 4px;
+}
+
+.check_button:hover {
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+.trash_button:hover {
+    background-color: red;
+    cursor: pointer;
+}
+
+.checklist {
+    text-decoration: line-through;
+}
