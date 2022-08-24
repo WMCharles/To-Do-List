@@ -26,4 +26,5 @@ body {
 
 .checklist {
     text-decoration: line-through;
+    font-style: italic;
 }
